@@ -121,7 +121,7 @@ print(player1.credits)
 # Showing options
 print("Player 1's options:")
 player1.options()
-
+#
 # Selecting an option
 selected_option = player1.select_option()
 print(f"Player 1 selected: {selected_option}")
